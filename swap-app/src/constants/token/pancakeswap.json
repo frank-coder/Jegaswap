@@ -1,0 +1,30 @@
+{
+  "name": "JegaSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://i.postimg.cc/RVgNSddq/IMG-20231207-104250-419.png",
+  "keywords": ["Jegaswap", "default"],
+  "tokens": [
+    {
+      "name": "Jegaswap Token",
+      "symbol": "LEGA",
+      "address": "0xE63B744a34aa9184A636f667C2D80C0AFD798161",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://dex.migoswap.org/images/coins/0xB76b0Eac05C94b7d5467399F2E193b0f8077ABD7.png"
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xf8f6BBd55E9FA907676480193b028080AD03e302",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://dex.migoswap.org/images/coins.png"
+    }
+  ]
+}

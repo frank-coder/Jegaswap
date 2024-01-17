@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/jegaswap/Router.sol": "JegaswapLibrary"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/jegaswap/Router.sol": {
+			"keccak256": "0xdb3c174b791b01f0c8dfbd2bba3490ad5942cc3867c46a0de0a1e35e9ec6f795",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d645cf179ff88a793d6e06e90b5cd5aca17bc5d01147c42fecdd0636922fd203",
+				"dweb:/ipfs/QmZdEYWwUaRt3YhXxzsXuCeUHmtNqPpbNUJSpfJBthUp55"
+			]
+		}
+	},
+	"version": 1
+}
